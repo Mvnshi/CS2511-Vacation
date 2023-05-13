@@ -1,4 +1,4 @@
-# CS511-Vacation
+# CS2511-Vacation
 Chapter 10 Individual Lab Assignment
 
 **Assignment:** Write an abstract super class encapsulating a vacation: A Vacation has one attribute: a destination. It has an overloaded constructor a toString() and an abstract calculate cost method that returns the total cost of each vacation. This class has two non-abstract subclasses: one encapsulating an all-inclusive vacation, and the other encapsulating a piecemeal vacation. 
